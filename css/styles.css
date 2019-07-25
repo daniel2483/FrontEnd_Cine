@@ -7,7 +7,7 @@ body{
   height: 100%;
   margin-top: 0px !important;
 }
-/*Comentarios*/
+
 header{
   height: 62px !important;
 }
@@ -193,6 +193,10 @@ legend{
 
 .row .movies-column{
   opacity: 0.8;
+}
+
+.img-responsive{
+  display: inline;
 }
 
 
